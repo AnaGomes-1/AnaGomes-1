@@ -2,7 +2,7 @@
 
 - 🎂 Tenho 25 anos
 - 👀 Meus principais interesses estão focados em adquirir habilidades em Desenvolvimento Web Front-End, Montagem e Manutenção de Computadores e Back-End.
-- 🎓 Graduação Uninter(Em Formação): Tecnologo em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduação Uff(Em Formação): Tecnologo em Sistemas da Computação
 - 🛠️ Curso Firjan Senai(Em Formação): Técnico Em Informática
 - 🖥️ Curso Firjan Senai: Programação Back-End
 - 🎨 Curso Vai na Web: Desenvolvedora Front-End com introdução de nuvem AWS
