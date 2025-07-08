@@ -26,5 +26,9 @@
   
 </div>
 
+![AnaGomes-1's Stats](https://github-readme-stats.vercel.app/api?username=AnaGomes-1&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![AnaGomes-1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaGomes-1&theme=dracula&hide_border=true)
+![AnaGomes-1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaGomes-1&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
 
 
